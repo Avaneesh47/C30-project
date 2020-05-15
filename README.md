@@ -1,6 +1,6 @@
-C30 Project
+C27 Project
 
 output link:
 
 
-https://avaneesh47.github.io/C30-project/
+https://avaneesh47.github.io/C27-Project/
